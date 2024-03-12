@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'idroid' ;
-    src: url('/fontes/idroid.otf') format('opentype');
+    src: url('./fontes/idroid.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
     }
@@ -22,10 +22,6 @@
         --cor3: #2fa866;
         --cor4: #1a5c37;
         --cor5: #063d1e;
-        
-        --fonte-padrao: arial, verdana, helvetica, sans-serif;
-        --fonte-destaque: "Bebas Neue", sans-serif;
-        --fonte-android: 'idroid' ;
     }
 
     body {
